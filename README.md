@@ -1,7 +1,7 @@
 
 # Clasificador de Artículos de Moda - TpFinal_Streamlit
 
-Este repositorio contiene los archivos y recursos necesarios para ejecutar una aplicación de clasificación de artículos de moda desarrollada con una Red Neuronal Convolucional (CNN). Desplegamos la aplicación usando Streamlit y permite a los usuarios clasificar imágenes de ropa en varias categorías, similares a las encontradas en el dataset Fashion MNIST.
+Este repositorio contiene los archivos y recursos necesarios para ejecutar una aplicación de clasificación de artículos de moda desarrollada con una Red Neuronal Convolucional (CNN). Desplegamos la aplicación usando Streamlit y permite a los usuarios clasificar imágenes de ropa en varias categorías encontradas en el dataset Fashion MNIST, el mismo fue utilizado para entrenar el modelo, se encuentra por defecto cargado en Google Colab.
 
 ## Contenido del Repositorio
 
