@@ -1,3 +1,7 @@
 tensorflow
 Pillow
 numpy
+pandas 
+matplotlib
+grpcio
+graphviz
