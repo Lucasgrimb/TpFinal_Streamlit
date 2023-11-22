@@ -24,7 +24,7 @@ class_names = ['Camiseta/top', 'Pantalón', 'Suéter', 'Vestido', 'Abrigo',
 model = load_model('modeloChona.h5')
 
 # Título de la aplicación
-st.title("Clasificador de Moda con Fashion MNIST")
+st.title("Clasificador de Artículos de Moda con Fashion MNIST")
 
 # Subida de archivos
 uploaded_file = st.file_uploader("Sube una imagen de ropa...", type=["png", "jpg", "jpeg"])
